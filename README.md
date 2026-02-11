@@ -246,7 +246,7 @@ The comparison demonstrates how model choice impacts forecast reliability and op
 
 ---
 
-## Business / Clinical Impact
+## Business Impact
 
 ### Potential Value Drivers
 
